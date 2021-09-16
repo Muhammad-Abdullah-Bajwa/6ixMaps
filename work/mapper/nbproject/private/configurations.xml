@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+          <in>IndexedFlyweight.hpp</in>
+          <in>LatLon.h</in>
+          <in>OSMDatabaseAPI.h</in>
+          <in>OSMEntity.h</in>
+          <in>OSMID.h</in>
+          <in>OSMNode.h</in>
+          <in>OSMRelation.h</in>
+          <in>OSMWay.h</in>
+          <in>SerializeBoostFlatMap.hpp</in>
+          <in>StreetsDatabaseAPI.h</in>
+          <in>m1.h</in>
+          <in>m2.h</in>
+          <in>m3.h</in>
+          <in>m4.h</in>
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+            <in>Surface.cpp</in>
+            <in>Surface.h</in>
+            <in>SurfaceImpl.cpp</in>
+            <in>SurfaceImpl.h</in>
+            <in>easygl_constants.h</in>
+            <in>fontcache.cpp</in>
+            <in>fontcache.h</in>
+            <in>global_functions.h</in>
+            <in>graphics.cpp</in>
+            <in>graphics.h</in>
+            <in>graphics_automark.h</in>
+            <in>graphics_state.cpp</in>
+            <in>graphics_state.h</in>
+            <in>graphics_types.cpp</in>
+            <in>graphics_types.h</in>
+          </df>
+          <in>m1.cpp</in>
+          <in>m1.h</in>
+          <in>m2.cpp</in>
+          <in>m4.cpp</in>
+        </df>
+        <df name="tests">
+          <df name="folder">
+            <in>london_england_driver.cpp</in>
+            <in>m4_func_public.easy_london_england.cpp</in>
+            <in>m4_func_public.easy_new_york_usa.cpp</in>
+            <in>m4_func_public.easy_toronto_canada.cpp</in>
+            <in>m4_func_public.extreme_london_england.cpp</in>
+            <in>m4_func_public.extreme_new_york_usa.cpp</in>
+            <in>m4_func_public.extreme_toronto_canada.cpp</in>
+            <in>m4_func_public.hard_london_england.cpp</in>
+            <in>m4_func_public.hard_new_york_usa.cpp</in>
+            <in>m4_func_public.hard_toronto_canada.cpp</in>
+            <in>m4_func_public.medium_london_england.cpp</in>
+            <in>m4_func_public.medium_new_york_usa.cpp</in>
+            <in>m4_func_public.medium_toronto_canada.cpp</in>
+            <in>m4_func_public.path_cost_london_england.cpp</in>
+            <in>m4_func_public.path_cost_new_york_usa.cpp</in>
+            <in>m4_func_public.path_cost_toronto_canada.cpp</in>
+            <in>m4_func_public.simple_legality_london_england.cpp</in>
+            <in>m4_func_public.simple_legality_new_york_usa.cpp</in>
+            <in>m4_func_public.simple_legality_toronto_canada.cpp</in>
+            <in>m4_load_map_driver.cpp</in>
+            <in>m4_valgrind_driver.cpp</in>
+            <in>newyork_driver.cpp</in>
+            <in>path_verify.cpp</in>
+          </df>
+          <in>courier_verify.cpp</in>
+          <in>courier_verify.h</in>
+          <in>example_test.cpp</in>
+          <in>london_england_driver.cpp</in>
+          <in>m4_load_map_driver.cpp</in>
+          <in>m4_valgrind_driver.cpp</in>
+          <in>newyork_driver.cpp</in>
+          <in>path_verify.cpp</in>
+          <in>path_verify.h</in>
+          <in>path_verify_1.cpp</in>
+          <in>tester_main.cpp</in>
+          <in>toronto_driver.cpp</in>
+          <in>unit_test_util.h</in>
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+          <in>main.cpp</in>
+          <in>newfile.h</in>
+        </df>
+      </df>
+      <df name="tests">
+        <in>m1_func_distance-time_saint_helena_public.cpp</in>
+        <in>m1_func_distance-time_toronto_canada_public.cpp</in>
+        <in>m1_func_intersection_saint_helena_public.cpp</in>
+        <in>m1_func_intersection_toronto_canada_public.cpp</in>
+        <in>m1_func_spatial_saint_helena_public.cpp</in>
+        <in>m1_func_spatial_toronto_canada_public.cpp</in>
+        <in>m1_func_street_saint_helena_public.cpp</in>
+        <in>m1_func_street_toronto_canada_public.cpp</in>
+        <in>m1_load_maps_public.cpp</in>
+        <in>m1_perf_distance-time_toronto_canada_public.cpp</in>
+        <in>m1_perf_intersection_toronto_canada_public.cpp</in>
+        <in>m1_perf_spatial_toronto_canada_public.cpp</in>
+        <in>m1_perf_street_toronto_canada_public.cpp</in>
+        <in>test_driver_stdout.cpp</in>
+        <in>unit_test_util.h</in>
+      </df>
+      <df name="Unit_Tests">
+        <in>Test.cpp</in>
+        <in>Test_1.cpp</in>
+        <in>unit_test_util.h</in>
+      </df>
+    </df>
+    <df root="." name="1">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="2">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="3">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="4">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="5">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="6">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+          <in>m3.cpp</in>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+      <in>m3.cpp</in>
+    </df>
+    <df root="." name="7">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="8">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="9">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="10">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+    <df root="." name="11">
+      <df name="build">
+        <df name="release">
+          <df name="libstreetmap">
+            <df name="src">
+              <df name="easygl">
+              </df>
+            </df>
+          </df>
+          <df name="main">
+            <df name="src">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="libstreetmap">
+        <df name="headers">
+        </df>
+        <df name="resources">
+        </df>
+        <df name="src">
+          <df name="easygl">
+          </df>
+        </df>
+        <df name="tests">
+        </df>
+      </df>
+      <df name="main">
+        <df name="src">
+        </df>
+      </df>
+      <df name="tests">
+      </df>
+      <df name="Unit_Tests">
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Release" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="Debug" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="DebugCheck" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="UnitTest_Release" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="UnitTest_Debug" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="UnitTest_DebugCheck" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="Profile" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir></rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

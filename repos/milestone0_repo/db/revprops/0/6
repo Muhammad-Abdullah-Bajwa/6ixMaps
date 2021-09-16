@@ -1,0 +1,13 @@
+K 8
+svn:date
+V 27
+2018-01-17T20:23:45.962000Z
+K 7
+svn:log
+V 76
+changed 7 to 8 in math_utils file ( double favg = average(list_of_points,8))
+K 10
+svn:author
+V 8
+bajwamu5
+END

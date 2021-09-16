@@ -1,0 +1,6 @@
+
+--This line, and those below, will be ignored--
+
+M    libstreetmap/tests/example_test.cpp
+M    main/src/main.cpp
+M    nbproject/configurations.xml
