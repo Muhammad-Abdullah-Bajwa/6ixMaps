@@ -1,0 +1,13 @@
+K 8
+svn:date
+V 27
+2018-01-11T15:30:39.650000Z
+K 7
+svn:log
+V 59
+Stopped size-t from going over average_function_value array
+K 10
+svn:author
+V 8
+bajwamu5
+END
